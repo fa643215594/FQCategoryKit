@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FQCategoryKit_Example' do
+  pod 'FQCategoryKit', :path => '../'
+
+  target 'FQCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
