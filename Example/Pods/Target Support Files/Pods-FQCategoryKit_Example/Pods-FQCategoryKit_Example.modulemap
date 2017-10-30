@@ -1,0 +1,6 @@
+framework module Pods_FQCategoryKit_Example {
+  umbrella header "Pods-FQCategoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

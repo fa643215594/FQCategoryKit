@@ -1,0 +1,22 @@
+{
+  "name": "FQCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of FQCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fa643215594/FQCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fa643215594": "643215594@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fa643215594/FQCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FQCategoryKit/Classes/**/*"
+}

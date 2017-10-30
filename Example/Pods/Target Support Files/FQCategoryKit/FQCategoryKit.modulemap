@@ -1,0 +1,6 @@
+framework module FQCategoryKit {
+  umbrella header "FQCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
