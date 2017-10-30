@@ -1,2 +1,0 @@
-# FQCategoryKit
-FQCategory Kit
